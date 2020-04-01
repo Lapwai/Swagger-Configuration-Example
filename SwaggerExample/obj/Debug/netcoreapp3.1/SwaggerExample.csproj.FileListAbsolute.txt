@@ -19,7 +19,6 @@ C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\obj\Debug\netcoreapp3.1
 C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\obj\Debug\netcoreapp3.1\SwaggerExample.csproj.CopyComplete
 C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\obj\Debug\netcoreapp3.1\SwaggerExample.dll
 C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\obj\Debug\netcoreapp3.1\SwaggerExample.pdb
-C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\obj\Debug\netcoreapp3.1\SwaggerExample.csprojAssemblyReference.cache
 C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\Andy\source\repos\SwaggerExample\SwaggerExample\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
